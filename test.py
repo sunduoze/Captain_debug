@@ -61,7 +61,6 @@ def ip_set():
         #     ip_bt['text'] = "关闭端口"
         #     print('if')
         #     # sock.connect(ip_info)
-        #
         # else:
         #     print('else')
         #     # ip_bt['text'] = "打开端口"
